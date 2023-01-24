@@ -1,1 +1,1 @@
-This folder contains the javascript file that is linked with index.html i.e script.js
+This folder contains the javascript file that is linked with index.html i.e index.js
